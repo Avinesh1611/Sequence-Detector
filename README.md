@@ -143,6 +143,7 @@ module tb_fsm_sequence;
 endmodule
 ```
 ## OUTPUT
+![Screenshot 2024-11-13 112618](https://github.com/user-attachments/assets/621e268c-6249-4d6c-8bad-cf7025c59aaa)
 
 
 ## Verilog Code for Sequence Detector Using Mealy FSM
